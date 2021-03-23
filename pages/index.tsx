@@ -17,11 +17,11 @@ const Home = ({ postsData, sortedTopics }: { postsData: PostData[]; sortedTopics
   return (
     <>
       <Head>
-        <title>{NAME}: Full Stack Web Development - a tech blog.</title>
+        <title>{NAME}: Aneka Kurma Premium | SARIKURMA.ID.</title>
         <meta
           name="description"
-          content={`${NAME} is a blog on various topics in full stack development
-            with a focus on current technologies like React, NextJS and Go programming.`}
+          content={`${NAME} menyediakan grosir kurma yang berkualitas premium dan higenis. 
+          kami pastikan produk-produk kami baru dan memiliki expired yang panjang.`}
         />
       </Head>
       <Grid container>
@@ -29,7 +29,7 @@ const Home = ({ postsData, sortedTopics }: { postsData: PostData[]; sortedTopics
           <Box p={5}>
             <Typography variant={large ? 'h1' : 'h4'}>{NAME_AND_DOMAIN}</Typography>
             <Typography className={styles.secondHeading} variant={large ? 'h3' : 'h6'}>
-              A tech blog.
+              Tentang Perkurmaan.
             </Typography>
           </Box>
         </Grid>

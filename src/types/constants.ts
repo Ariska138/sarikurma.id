@@ -1,4 +1,4 @@
-export const NAME = 'DevX'
-export const NAME_AND_DOMAIN = 'DevX.sh'
-export const BASE_URL = 'https://devx.sh'
-export const DEPLOYMENTS_URL = 'https://api.github.com/repos/FelixMohr/nextjs-material-ui-blog/deployments'
+export const NAME = 'Sarikurma.id'
+export const NAME_AND_DOMAIN = 'SariKurma.id'
+export const BASE_URL = 'https://sarikurma.id'
+export const DEPLOYMENTS_URL = 'https://github.com/Ariska138/sarikurma.id'
