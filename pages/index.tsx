@@ -23,6 +23,7 @@ const Home = ({ postsData, sortedTopics }: { postsData: PostData[]; sortedTopics
           content={`${NAME} menyediakan grosir kurma yang berkualitas premium dan higenis. 
           kami pastikan produk-produk kami baru dan memiliki expired yang panjang.`}
         />
+        <meta name="google-site-verification" content="jy8qnIfclj--Cz5nV50y4lruGw8GItHy_c46mCfd-iM" />
       </Head>
       <Grid container>
         <Grid item xs={12} className={styles.headings}>
