@@ -64,7 +64,7 @@ const Slug: FC<Props> = ({ postData, nextPath }): ReactElement => {
                 alignItems: 'center',
               }}
             >
-              Hapsari <GitHubIcon fontSize="small" style={{ marginLeft: 10 }} />
+              Hapsari
             </a>
           </Typography>
           <TopicsDisplay topics={postData.topics} n={10} noMargin />

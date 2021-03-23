@@ -48,7 +48,7 @@ export const TopBar = (): ReactElement => {
             <img
               src="/logo/white.png"
               height="25px"
-              alt="devx.sh"
+              alt="sarikurma.id"
               style={{ paddingRight: 10, verticalAlign: 'bottom' }}
             />
           </a>

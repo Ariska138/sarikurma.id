@@ -29,7 +29,7 @@ const Home = ({ postsData, sortedTopics }: { postsData: PostData[]; sortedTopics
           <Box p={5}>
             <Typography variant={large ? 'h1' : 'h4'}>{NAME_AND_DOMAIN}</Typography>
             <Typography className={styles.secondHeading} variant={large ? 'h3' : 'h6'}>
-              Tentang Perkurmaan.
+              Hidup Sehat ala Rasulullah
             </Typography>
           </Box>
         </Grid>
