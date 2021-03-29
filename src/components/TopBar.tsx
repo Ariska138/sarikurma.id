@@ -43,7 +43,7 @@ export const TopBar = (): ReactElement => {
   return (
     <AppBar className={trigger ? classes.hide : classes.show} position="sticky">
       <Toolbar className={classes.toolbar}>
-        <Link href="/">
+        {/* <Link href="/">
           <a>
             <img
               src="/logo/white.png"
@@ -52,7 +52,7 @@ export const TopBar = (): ReactElement => {
               style={{ paddingRight: 10, verticalAlign: 'bottom' }}
             />
           </a>
-        </Link>
+        </Link> */}
         <Link href="/">
           <a>
             <Typography variant="h6" style={!isDark ? { color: '#fff' } : {}}>
