@@ -3,6 +3,7 @@ import Toolbar from '@material-ui/core/Toolbar'
 import SunIcon from '@material-ui/icons/WbSunnyOutlined'
 import MoonIcon from '@material-ui/icons/Brightness2Outlined'
 import CodeIcon from '@material-ui/icons/Code'
+import StoreIcon from '@material-ui/icons/Store'
 import Typography from '@material-ui/core/Typography'
 import Button from '@material-ui/core/Button'
 import AppBar from '@material-ui/core/AppBar'
@@ -60,15 +61,20 @@ export const TopBar = (): ReactElement => {
             </Typography>
           </a>
         </Link>
-        <div className={classes.toolbarContent}>
+        <div className={classes.toolbarContent}></div>
+        <div className={classes.toolbarRight}>
+          <Link href="https://toko.sarikurma.id">
+            <Button variant="text" color="inherit">
+              <StoreIcon />
+              &nbsp;Toko
+            </Button>
+          </Link>
           <Link href="/topics">
             <Button variant="text" color="inherit">
               <CodeIcon />
               &nbsp;Topics
             </Button>
           </Link>
-        </div>
-        <div className={classes.toolbarRight}>
           <Tooltip title="Toggle Theme">
             <Button variant="text" color="inherit" onClick={toggleTheme}>
               {isDark ? <SunIcon /> : <MoonIcon />}
