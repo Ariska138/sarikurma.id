@@ -26,7 +26,7 @@ const useStyles = makeStyles({
     paddingLeft: '5%',
   },
   toolbarContent: {
-    paddingLeft: 70,
+    paddingLeft: 20,
   },
   toolbarRight: {
     right: 0,
