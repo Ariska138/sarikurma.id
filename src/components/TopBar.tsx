@@ -5,6 +5,7 @@ import MoonIcon from '@material-ui/icons/Brightness2Outlined'
 import CodeIcon from '@material-ui/icons/Code'
 import StoreIcon from '@material-ui/icons/Store'
 import Typography from '@material-ui/core/Typography'
+import Box from '@material-ui/core/Box'
 import Button from '@material-ui/core/Button'
 import AppBar from '@material-ui/core/AppBar'
 import useScrollTrigger from '@material-ui/core/useScrollTrigger'
@@ -57,7 +58,9 @@ export const TopBar = (): ReactElement => {
         <Link href="/">
           <a>
             <Typography variant="h6" style={!isDark ? { color: '#fff' } : {}}>
-              {NAME_AND_DOMAIN}
+              <Box display={{ xs: 'none', md: 'block' }} m={1}>
+                {NAME_AND_DOMAIN}
+              </Box>
             </Typography>
           </a>
         </Link>
