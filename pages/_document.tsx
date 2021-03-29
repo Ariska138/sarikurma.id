@@ -26,6 +26,13 @@ export default class MyDocument extends Document {
         `,
             }}
           />
+
+          <script
+            data-ad-client="ca-pub-6941351885659918"
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+          ></script>
+
           <link rel="icon" type="image/png" href="/devx.png" />
           <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,500,700&display=swap" />
           <link
