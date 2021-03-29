@@ -61,3 +61,5 @@ Dengan kandungan karbohidrat dan serat yang tidak larut membuat Anda merasakan k
 Anda dapat mengurangi aktivitas protein beta amiloid yang dapat membentuk plak di otak dengan cara mengkonsumsi kurma sukari.
 
 Ketika plak sudah menumpuk di otak dapat mengganggu sel-sel yang dapat menyebabkan kematian sel otak. Hal ini dapat menyebabkan salah satu penyakit alzheimer.
+
+Banyak sekali manfaat dari Kurma Sukari yang belum kami sebutkan. Jika Anda ingin menambah persediaan kurma, Anda bisa cek di [Toko Kami](https://toko.sarikurma.id/)
