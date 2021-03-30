@@ -15,7 +15,6 @@ export default class MyDocument extends Document {
           <meta property="og:locale" content="en_GB" />
           <meta name="google-site-verification" content="jy8qnIfclj--Cz5nV50y4lruGw8GItHy_c46mCfd-iM" />
           <script async src="https://www.googletagmanager.com/gtag/js?id=G-KV905JNW44" />
-
           <script
             dangerouslySetInnerHTML={{
               __html: `
@@ -26,9 +25,9 @@ export default class MyDocument extends Document {
         `,
             }}
           />
-
+          {/* Adsense */}
           <script
-            data-ad-client="ca-pub-6941351885659918"
+            data-ad-client="ca-pub-0249300763752836"
             async
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
           ></script>
