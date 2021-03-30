@@ -73,7 +73,12 @@ const Slug: FC<Props> = ({ postData, nextPath }): ReactElement => {
       <div className={styles['image-container']}>
         <Card className={styles.image}>
           <CardMedia>
-            <img alt={postData.title} loading="lazy" src={`/large/${postData.id}.png`} />
+            <img
+              className={styles['img-width']}
+              alt={postData.title}
+              loading="lazy"
+              src={`/large/${postData.id}.png`}
+            />
           </CardMedia>
         </Card>
       </div>

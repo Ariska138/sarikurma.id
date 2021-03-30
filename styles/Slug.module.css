@@ -9,7 +9,11 @@
   max-width: 90%;
   margin: 0;
   padding: 0;
-  height: 498px;
+  /* height: 298px; */
+}
+
+.img-width {
+  width: 100%;
 }
 
 .info {
