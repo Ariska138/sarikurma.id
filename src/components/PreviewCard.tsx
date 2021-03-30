@@ -44,7 +44,7 @@ const useStyles = makeStyles((theme) => ({
     color: theme.palette.text.secondary,
   },
   media: {
-    height: 160,
+    height: 240,
   },
   actions: {
     right: 20,

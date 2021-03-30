@@ -1,9 +1,27 @@
+let whitelist = ['localhost:3000', 'sarikurma.id', 'toko.sarikurma.id']
+
 const allowCors = fn => async (req, res) => {
+
+  // console.log(req.headers.host);
+
+   let founded = whitelist.find(function(value){
+     return (value === req.headers.host);
+   });
+   
+   console.log('founded: '+founded);
+   console.log('b: '+(founded == null))
+
+   if(founded == null) {
+    res.status(400).end()
+    return
+   }
+
   res.setHeader('Access-Control-Allow-Credentials', true)
-  res.setHeader('Access-Control-Allow-Origin', 'https://sarikurma.id')
+  res.setHeader('Access-Control-Allow-Origin', '*')
   // another common pattern
-  // res.setHeader('Access-Control-Allow-Origin', req.headers.origin);
-  console.log(req.headers.origin);
+  // res.setHeader('Access-Control-Allow-Origin', req.headers.host);
+  // console.log(req.headers.origin);
+  // console.log(req.headers.host);
   res.setHeader('Access-Control-Allow-Methods', 'GET,OPTIONS,PATCH,DELETE,POST,PUT')
   res.setHeader(
     'Access-Control-Allow-Headers',

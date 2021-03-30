@@ -6,6 +6,7 @@ export const paletteColorsDark = {
   error: '#E44C65',
   background: '#212d3b',
   text: '#bbe1fa',
+  link: '#bbe1fa',
 }
 
 export const paletteColorsLight = {
@@ -14,6 +15,7 @@ export const paletteColorsLight = {
   error: '#E44C65',
   background: '#f9f9f9',
   text: '#050505',
+  link: '#6f1817',
 }
 
 const options = (dark: boolean): ThemeOptions => {
@@ -84,7 +86,7 @@ const options = (dark: boolean): ThemeOptions => {
           a: {
             textDecoration: 'none',
             fontWeight: 900,
-            color: paletteColors.text,
+            color: paletteColors.link,
           },
         },
       },
@@ -92,7 +94,7 @@ const options = (dark: boolean): ThemeOptions => {
   }
 }
 
-export const darkTheme = createMuiTheme(options(true))
-export const lightTheme = createMuiTheme(options(false))
+export const darkTheme = createMuiTheme(options(false))
+export const lightTheme = createMuiTheme(options(true))
 
 export default darkTheme
