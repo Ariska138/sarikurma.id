@@ -40,7 +40,7 @@ const useStyles = makeStyles((theme) => ({
     margin: 'auto',
     position: 'relative',
     cursor: 'pointer',
-    backgroundColor: theme.palette.card,
+    backgroundColor: theme.palette.secondary.main,
     color: theme.palette.text.secondary,
   },
   media: {

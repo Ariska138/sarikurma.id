@@ -29,7 +29,7 @@ const options = (dark: boolean): ThemeOptions => {
         main: paletteColors.primary,
       },
       secondary: {
-        main: paletteColors.secondary,
+        main: paletteColors.card,
       },
       error: {
         main: paletteColors.error,
@@ -40,6 +40,7 @@ const options = (dark: boolean): ThemeOptions => {
       text: {
         primary: paletteColors.text,
       },
+      
     },
     typography: {
       fontFamily: 'Lato',
