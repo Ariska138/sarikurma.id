@@ -45,17 +45,17 @@ export const TopBar = (): ReactElement => {
   return (
     <AppBar className={trigger ? classes.hide : classes.show} position="sticky">
       <Toolbar className={classes.toolbar}>
-        {/* <Link href="/">
+        <Link href="/">
           <a>
             <img
-              src="/logo/white.png"
+              src="/logo/Sarikurma.gif"
               height="25px"
               alt="sarikurma.id"
               style={{ paddingRight: 10, verticalAlign: 'bottom' }}
             />
           </a>
-        </Link> */}
-        <Link href="/">
+        </Link>
+        {/* <Link href="/">
           <a>
             <Typography variant="h6" style={!isDark ? { color: '#fff' } : {}}>
               <Box display={{ xs: 'none', md: 'block' }} m={1}>
@@ -63,7 +63,7 @@ export const TopBar = (): ReactElement => {
               </Box>
             </Typography>
           </a>
-        </Link>
+        </Link> */}
         <div className={classes.toolbarContent}></div>
         <div className={classes.toolbarRight}>
           <Link href="https://toko.sarikurma.id">

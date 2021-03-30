@@ -7,6 +7,7 @@ export const paletteColorsDark = {
   background: '#212d3b',
   text: '#bbe1fa',
   link: '#bbe1fa',
+  card: '#625b63',
 }
 
 export const paletteColorsLight = {
@@ -16,6 +17,7 @@ export const paletteColorsLight = {
   background: '#f9f9f9',
   text: '#050505',
   link: '#6f1817',
+  card: '#fff',
 }
 
 const options = (dark: boolean): ThemeOptions => {
