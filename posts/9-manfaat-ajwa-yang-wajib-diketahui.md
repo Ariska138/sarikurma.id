@@ -3,7 +3,7 @@ title: '9 Manfaat Ajwa yang Wajib Diketahui'
 date: '2021-03-30'
 description: 'Kurma ajwa biasa dikenal dengan kurma nabi karena kurma ajwa merupakan kurma favorite Rasulullah SAW. Kurma ajwa terkenal karena manfaatnya sebagai obat dan penangkal sihir. Dibanding kurma jenis lainnya kurma ajwa memiliki harga yang lumayan tinggi.'
 featured: true
-topics: Ajwa, Kurma
+topics: Ajwa, Kurma, All
 recommended: 9-manfaat-sukari-untuk-kesehatan
 ---
 
@@ -38,8 +38,8 @@ Lebih jelasnya berikut manfaat kurma ajwa:
 5. Mmenjaga Kesehatan Jantung
    Kurma Ajwa dikenal kaya akan vitamin dan mineral. kurma ajwa baik untuk menjaga kesehatan jantung. kandungan serat pada buah kurma ajwa dapat mengontrol kadar kolesterol jahat.
 
-Kurma ajwa mengandung antioksidan seperti asam fenolik yang bersifat anti radang.
-asam fenolik dipercaya dapat menurunkan penyakit jantung dan stroke.
+   Kurma ajwa mengandung antioksidan seperti asam fenolik yang bersifat anti radang.
+   asam fenolik dipercaya dapat menurunkan penyakit jantung dan stroke.
 
 6. Mencegah Diabetes
    Kurma ajwa dapat mencegah penyakit diabetes. Serat larut pada kurma ajwa dapat membantu mengendalikan diabetes dengan cara menurunkan kadar glukosa darah.
@@ -58,6 +58,7 @@ Selain itu kurma ajwa juga bisa di jadikan air rendaman kurma atau yang sering d
 Kurma ajwa yang terlalu lama disimpan dikulkas lama kelamaan akan mengering. Ketika kurma ajwa kering tidak bisa dinikmati secara langsung karena teksturnya akan keras seperti batu.
 
 Cara menikmati kurma ajwa kering dengan cara membuat air nabeez kurma/yang sering disebut infused water.
+
 Cara membuat air nabeez kurma cukup mudah, berikut langkah pembuatannya :
 
 1. Tuangkan air matang kedalam gelas/wadah kaca
@@ -70,13 +71,15 @@ Apabila air nabeez sudah lebih dari 12 jam lebih baik dibuang atau tidak dikonsu
 Tanpa direndam kurma ajwa memiliki banyak sekali manfaat. Ketika dibuat air nabeez manfaatnya semakin melimpah seperti :
 
 1. Detoksifikasi
-   manfaat air nabeez ini adalah untuk detoksifikasi tubuh dengan cara mengurangi racun didalam tubuh karena kandungan alkali didalamnya.
+   Manfaat air nabeez ini adalah untuk detoksifikasi tubuh dengan cara mengurangi racun didalam tubuh karena kandungan alkali didalamnya.
 
-dengan meminum infuse water/air nabeez setiap hari dapat membersihkan racun didalam tubuh dan menjadikan tubuh menjadi lebih sehat dan segar.
+   Dengan meminum infuse water/air nabeez setiap hari dapat membersihkan racun didalam tubuh dan menjadikan tubuh menjadi lebih sehat dan segar.
 
-infuse water/air nabeez ini dapat dikonsumsi setiap hari. karena tidak menimbulkan efek samping.
+   Infuse water/air nabeez ini dapat dikonsumsi setiap hari. karena tidak menimbulkan efek samping.
 
 2. Isotonik
-   air nabeez/infuse water kurma bisa juga digunakan sebagai isotonik. karena kandungan gula tinggi alami pada kurma dapat menaikkan gula darah.
+   Air nabeez/infuse water kurma bisa juga digunakan sebagai isotonik. karena kandungan gula tinggi alami pada kurma dapat menaikkan gula darah.
 
-air nabeez/infuse water kurma sangat cocok dijadikan minuman isotonik karena dapat menggantikan cairan tubuh yang hilang setelah beraktifitas seharian.
+   air nabeez/infuse water kurma sangat cocok dijadikan minuman isotonik karena dapat menggantikan cairan tubuh yang hilang setelah beraktifitas seharian.
+
+Nah, sekarang sudah tahu manfaat dari Ajwa. Jika Anda ingin menambah persediaan kurma Ajwa, Anda bisa cek di [Toko Kami](https://toko.sarikurma.id/)

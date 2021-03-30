@@ -3,7 +3,7 @@ title: '9 Manfaat Sukari untuk Kesehatan'
 date: '2021-03-23'
 description: 'kurma sukari biasa dikenal dengan kurma raja karena buahnya yang besar. kurma sukari atau dalam bahasa arabnya ‘’sukkur’’ yang berati gula adalah salah satu kurma favorite yang banyak diminati masyarakat di indonesia. selain rasanya enak harganya pun terjangkau..'
 featured: true
-topics: Sukari, Kurma
+topics: Sukari, Kurma, All
 recommended: 9-manfaat-ajwa-yang-wajib-diketahui
 ---
 
