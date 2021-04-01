@@ -28,8 +28,11 @@
   overflow-x: hidden;
   max-width: 90%;
   margin: auto;
-  font-size: 112%;
-  line-height: 1.6;
+  /* font-size: 112%; */
+  /* line-height: 1.6; */
+  font-size: 18px;
+  letter-spacing: -0.003em;
+  line-height: 32px;
 }
 
 .image-container {
