@@ -72,12 +72,12 @@ export const TopBar = (): ReactElement => {
               &nbsp;Toko
             </Button>
           </Link>
-          <Link href="/topics">
+          {/* <Link href="/topics">
             <Button variant="text" color="inherit">
               <CodeIcon />
               &nbsp;Topics
             </Button>
-          </Link>
+          </Link> */}
           <Tooltip title="Toggle Theme">
             <Button variant="text" color="inherit" onClick={toggleTheme}>
               {isDark ? <SunIcon /> : <MoonIcon />}

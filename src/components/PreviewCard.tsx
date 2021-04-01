@@ -52,6 +52,9 @@ const useStyles = makeStyles((theme) => ({
     padding: 10,
     position: 'absolute',
   },
+  description: {
+    lineHeight: 20,
+  },
 }))
 export const PreviewCard: FC<PreviewCardProps> = ({ post, noMargin }): ReactElement => {
   const classes = useStyles()
@@ -63,10 +66,10 @@ export const PreviewCard: FC<PreviewCardProps> = ({ post, noMargin }): ReactElem
           <CardMedia className={classes.media} image={`/small/${post.id}.png`} title={post.title} />
         </CardActionArea>
         <CardContent>
-          <Typography gutterBottom variant="h5" component="h2">
+          <Typography gutterBottom variant="h5" color="textPrimary" component="h2">
             {post.title}
           </Typography>
-          <Typography variant="body2" color="textPrimary" component="p">
+          <Typography variant="body2" component="p">
             {post.description}
           </Typography>
         </CardContent>

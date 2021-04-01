@@ -12,7 +12,7 @@ export const PageHeading: FC<PageHeadingProps> = ({ title }): ReactElement => {
     <Grid container>
       <Grid item xs={12} className={styles.headings}>
         <Box p={5}>
-          <Typography variant="h3" component="h1">
+          <Typography variant="h4" component="h1">
             {title}
           </Typography>
         </Box>
