@@ -30,7 +30,8 @@
   margin: auto;
   /* font-size: 112%; */
   /* line-height: 1.6; */
-  font-size: 18px;
+  font-size: 17px;
+  font-weight: 400;
   letter-spacing: -0.003em;
   line-height: 32px;
 }
