@@ -14,14 +14,15 @@ export default class MyDocument extends Document {
           <meta name="application-name" content={NAME} />
           <meta property="og:locale" content="en_GB" />
           <meta name="google-site-verification" content="jy8qnIfclj--Cz5nV50y4lruGw8GItHy_c46mCfd-iM" />
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-KV905JNW44" />
+          {/* analitics */}
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-TNSB5Y5NZ5" />
           <script
             dangerouslySetInnerHTML={{
               __html: `
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-KV905JNW44');
+            gtag('config', 'G-TNSB5Y5NZ5');
         `,
             }}
           />
