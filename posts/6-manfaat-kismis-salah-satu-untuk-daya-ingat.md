@@ -1,5 +1,5 @@
 ---
-title: '6 Manfaat Kismis: Salah satu untuk daya Ingat'
+title: '6 Manfaat Kismis: Baik untuk daya Ingat'
 date: '2021-04-02'
 description: 'Pada musim haji kismis dan kurma sering dijadikan oleh-oleh haji. Kismis sendiri mengandung berbagai macam nutrisi seperti serat, vitamin dan mineral. Kismispun juga bisa dijadikan air nabeez/infuse water.'
 featured: true
