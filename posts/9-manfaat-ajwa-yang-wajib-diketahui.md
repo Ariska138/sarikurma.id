@@ -1,5 +1,5 @@
 ---
-title: '9 Manfaat Ajwa yang Wajib Diketahui'
+title: '9 Manfaat Ajwa: Baik untuk Jantung dan Pengobatan'
 date: '2021-03-30'
 description: 'Kurma ajwa biasa dikenal dengan kurma nabi karena kurma ajwa merupakan kurma favorite Rasulullah SAW. Kurma ajwa terkenal karena manfaatnya sebagai obat dan penangkal sihir. Dibanding kurma jenis lainnya kurma ajwa memiliki harga yang lumayan tinggi.'
 featured: true
