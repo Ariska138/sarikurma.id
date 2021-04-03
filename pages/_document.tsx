@@ -32,11 +32,11 @@ export default class MyDocument extends Document {
             }}
           />
           {/* Adsense */}
-          <script
+          {/* <script
             data-ad-client="ca-pub-0249300763752836"
             async
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-          ></script>
+          ></script> */}
 
           <link rel="icon" type="image/png" href="/devx.png" />
           <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,500,700&display=swap" />
