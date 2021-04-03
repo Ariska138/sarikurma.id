@@ -1,5 +1,5 @@
 ---
-title: '9 Manfaat Sukari untuk Kesehatan'
+title: '9 Manfaat Sukari: Baik untuk Stamina / Vitalitas Pria'
 date: '2021-03-23'
 description: 'kurma sukari biasa dikenal dengan kurma raja karena buahnya yang besar. kurma sukari atau dalam bahasa arabnya ‘’sukkur’’ yang berati gula adalah salah satu kurma favorite yang banyak diminati masyarakat di indonesia. selain rasanya enak harganya pun terjangkau..'
 featured: true
