@@ -28,7 +28,7 @@ const useStyles = makeStyles((theme) => ({
     },
     [theme.breakpoints.down('xs')]: {
       width: 300,
-      height: 500,
+      height: 550,
     },
     [theme.breakpoints.up('lg')]: {
       width: 410,
@@ -36,7 +36,7 @@ const useStyles = makeStyles((theme) => ({
     [theme.breakpoints.up('xl')]: {
       width: 450,
     },
-    height: 460,
+    height: 470,
     margin: 'auto',
     position: 'relative',
     cursor: 'pointer',
