@@ -36,6 +36,10 @@
   line-height: 32px;
 }
 
+.post-container img {
+  max-width: 80%;
+  display: block;
+}
 .image-container {
   width: 100%;
   margin: auto;
