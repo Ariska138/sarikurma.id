@@ -10,7 +10,6 @@ import '../../node_modules/highlight.js/lib/highlight'
 import styles from '../../styles/Slug.module.css'
 import { PageHeading } from '../../src/components/PageHeading'
 import { Card, CardMedia, Typography } from '@material-ui/core'
-import GitHubIcon from '@material-ui/icons/GitHub'
 import TopicsDisplay from '../../src/components/TopicsDisplay'
 import PreviewCard from '../../src/components/PreviewCard'
 import { BASE_URL, NAME } from '../../src/types/constants'
@@ -64,7 +63,7 @@ const Slug: FC<Props> = ({ postData, nextPath }): ReactElement => {
                 alignItems: 'center',
               }}
             >
-              Hapsari
+              {postData.writer ? postData.writer : 'Admin'}
             </a>
           </Typography>
           <TopicsDisplay topics={postData.topics} n={10} noMargin />
