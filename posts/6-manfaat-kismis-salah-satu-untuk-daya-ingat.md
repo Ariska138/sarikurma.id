@@ -45,4 +45,8 @@ Kismis dapat mencegah anemia karena mengandung zat besi, tembaga, dan vitamin B 
 
 <br/>
 
-Banyak sekali manfaat dari Kismis yang belum kami sebutkan. Jika Anda ingin menambah persediaan cemilan, Anda bisa cek di [Toko Kami](https://toko.sarikurma.id/)
+Banyak sekali manfaat dari Kismis yang belum kami sebutkan.
+
+Jika Anda ingin menambah persediaan cemilan, Anda bisa cek di [Toko Kami](https://toko.sarikurma.id/)
+
+<br/>

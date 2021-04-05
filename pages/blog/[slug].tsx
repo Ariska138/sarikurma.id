@@ -85,7 +85,7 @@ const Slug: FC<Props> = ({ postData, nextPath }): ReactElement => {
       <div className={styles['post-container']} style={{ paddingTop: 50 }}>
         <hr />
         <Typography variant="h4" component="p" style={{ paddingBottom: 20 }}>
-          Recommended
+          Bacaan yang lain
         </Typography>
         <PreviewCard post={nextPath} noMargin />
       </div>
