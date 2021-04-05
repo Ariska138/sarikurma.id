@@ -5,6 +5,7 @@ description: 'kurma sukari biasa dikenal dengan kurma raja karena buahnya yang b
 featured: true
 topics: Sukari, Kurma, All
 recommended: 6-manfaat-kismis-salah-satu-untuk-daya-ingat
+writer: Hapsari
 ---
 
 Kurma sukari biasa dikenal dengan **kurma raja** karena buahnya yang besar. Kurma sukari atau dalam bahasa arabnya ‘’sukkur’’ yang berati gula adalah salah satu kurma favorite yang banyak diminati masyarakat di Indonesia. Selain rasanya enak harganya pun terjangkau.

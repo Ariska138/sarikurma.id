@@ -5,6 +5,7 @@ description: 'Kurma ajwa biasa dikenal dengan kurma nabi karena kurma ajwa merup
 featured: true
 topics: Ajwa, Kurma, All
 recommended: 9-manfaat-sukari-untuk-kesehatan
+writer: Hapsari
 ---
 
 **Kira-kira pada tau kurma ajwa gak ya?** Nah kali ini kita akan mengulas manfaat kurma ajwa dan cara pembuatan air rendaman kurma atau yang sering dikenal dengan air nabeez/infuse water beserta manfaatnya.
